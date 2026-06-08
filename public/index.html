@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multi-Task Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Multi-Task Dashboard</h1>
+    <div class="header-actions">
+      <div class="unhide-wrapper">
+        <button id="unhide-columns-btn" class="btn btn-secondary" type="button">Unhide Columns</button>
+        <div id="unhide-dropdown" class="dropdown hidden"></div>
+      </div>
+      <button id="add-column-btn" class="btn btn-primary" type="button">+ Add Column</button>
+    </div>
+  </header>
+
+  <main id="dashboard" class="dashboard"></main>
+
+  <div id="modal-overlay" class="modal-overlay hidden">
+    <div class="modal">
+      <h2>New Task Column</h2>
+      <form id="add-column-form">
+        <label for="column-name">Column Name</label>
+        <input id="column-name" type="text" placeholder="e.g. Backend API" required maxlength="60">
+
+        <label for="column-color">Color</label>
+        <div class="color-picker-row">
+          <input id="column-color" type="color" value="#4f8cff">
+          <input id="column-color-hex" type="text" value="#4f8cff" pattern="^#[0-9A-Fa-f]{6}$" maxlength="7">
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" id="cancel-column-btn" class="btn btn-secondary">Cancel</button>
+          <button type="submit" class="btn btn-primary">Create Column</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

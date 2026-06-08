@@ -1,0 +1,246 @@
+{
+  "columns": [
+    {
+      "id": "bad18c4d-2974-48ab-a162-e0363cce6c43",
+      "name": "GR150",
+      "color": "#1f3f7a",
+      "updates": [
+        {
+          "id": "b7b0bdb5-fee6-475c-b362-ee73ffd90aa8",
+          "text": "check whats next -- A01P or PLD",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T11:15:42.726Z"
+        },
+        {
+          "id": "80dc8c25-b24a-468e-a421-e8af1433f56d",
+          "text": "push WA",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T10:46:44.230Z"
+        },
+        {
+          "id": "8559f7aa-3e19-49ce-8e1b-25039d0d9ce5",
+          "text": "burn",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:17:08.040Z"
+        },
+        {
+          "id": "5e2aac88-2848-4a98-a1e5-2027c6946a37",
+          "text": "add to conf",
+          "done": false,
+          "running": true,
+          "createdAt": "2026-06-08T09:13:15.295Z"
+        },
+        {
+          "id": "e78b3c4b-578f-44b5-af5f-afb8675e980c",
+          "text": "try a WA - no paos no NMX admin",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:05:42.626Z"
+        },
+        {
+          "id": "e749ebca-43d8-4888-8a42-1e8e3835d7d2",
+          "text": "open a bug on port linkup issue",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T08:30:57.493Z"
+        },
+        {
+          "id": "708890fd-9209-45b3-8fad-fe23b6fe35fa",
+          "text": "let claude look at the crashes",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T08:17:58.834Z"
+        },
+        {
+          "id": "6708dac3-5949-48b2-a7f0-30537a50251b",
+          "text": "debug crahses",
+          "done": true,
+          "createdAt": "2026-06-08T08:06:57.505Z",
+          "running": false
+        },
+        {
+          "id": "7ad9d8b9-15c9-449e-929e-848954a876f3",
+          "text": "Check logs",
+          "done": true,
+          "createdAt": "2026-06-08T07:55:22.745Z",
+          "running": false
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": "7c9ab7f7-4a19-4531-8048-fdd23f799929",
+      "name": "STO",
+      "color": "#de691b",
+      "updates": [
+        {
+          "id": "2fb1a97c-a02d-4426-a531-77e816c5771d",
+          "text": "run test",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T11:19:02.728Z"
+        },
+        {
+          "id": "80d83237-e61d-4eb7-aed9-78896ff34716",
+          "text": "reboot",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T11:18:59.319Z"
+        },
+        {
+          "id": "11fa93bf-b902-40cc-a539-e1ed06716749",
+          "text": "run update switch again -f",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T11:18:55.287Z"
+        },
+        {
+          "id": "e2930e33-4c68-4251-be2a-370edd9438db",
+          "text": "fix script",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T11:18:46.004Z"
+        },
+        {
+          "id": "e90f94db-11e7-4d5a-96f5-ab6bb47f307e",
+          "text": "update switch with ga step",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T10:17:44.237Z"
+        },
+        {
+          "id": "4c05543f-464c-4b6e-8690-7f5af7746173",
+          "text": "run a simple test",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:41:36.741Z"
+        },
+        {
+          "id": "8bff3b6f-c722-45a8-a57d-6c408315a343",
+          "text": "sw reset",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:05:52.649Z"
+        },
+        {
+          "id": "baab9a40-36d0-4b70-9292-d6cb228d87b2",
+          "text": "vault",
+          "done": true,
+          "createdAt": "2026-06-08T08:04:44.275Z",
+          "running": false
+        },
+        {
+          "id": "e2d6430b-9959-4983-81cd-f8bf5303a982",
+          "text": "Update switch -f",
+          "done": true,
+          "createdAt": "2026-06-08T07:55:40.703Z",
+          "running": false
+        },
+        {
+          "id": "91368727-11f5-4c57-b6cc-82776df02d91",
+          "text": "Lock 184",
+          "done": true,
+          "createdAt": "2026-06-08T07:55:30.130Z",
+          "running": false
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": "db854666-2dc8-4a78-8f04-6edf93ba53dd",
+      "name": "2018_0500",
+      "color": "#154c1e",
+      "updates": [],
+      "hidden": true
+    },
+    {
+      "id": "0873280d-4d41-4d27-8a7d-e930046ab98f",
+      "name": "MFDE",
+      "color": "#5b1d67",
+      "updates": [
+        {
+          "id": "205438c7-ec87-40f8-bae3-0ec404fc008f",
+          "text": "review +2 maybe emri",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T10:32:20.004Z"
+        },
+        {
+          "id": "365d58bd-342d-4267-bf4d-175c3e0530f6",
+          "text": "review shay,asaf",
+          "done": false,
+          "running": true,
+          "createdAt": "2026-06-08T10:32:09.967Z"
+        },
+        {
+          "id": "f288510e-fd6b-4781-aff5-bda04af6b47b",
+          "text": "push fix",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:18:01.105Z"
+        },
+        {
+          "id": "479845ed-090a-4f58-b687-d14be0556ebe",
+          "text": "run locally",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:17:56.952Z"
+        },
+        {
+          "id": "6f84fa09-247a-40eb-b121-9572c9891f2d",
+          "text": "add flush queue fix",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T09:17:52.765Z"
+        },
+        {
+          "id": "d0da8f63-e5f2-44e4-850c-bde3114dc3e1",
+          "text": "re run",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T08:40:10.163Z"
+        },
+        {
+          "id": "89b357d7-474e-4965-b135-6b1e17d144b1",
+          "text": "burn",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T08:40:04.683Z"
+        },
+        {
+          "id": "a320ad29-9c38-4375-97ea-cd3891ebfd4f",
+          "text": "Let claude look at the log",
+          "done": true,
+          "running": false,
+          "createdAt": "2026-06-08T08:17:44.465Z"
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "id": "e1c01671-85fd-4f97-80ed-d2fc3f40aff7",
+      "name": "Misc",
+      "color": "#c2c2c2",
+      "updates": [
+        {
+          "id": "a85141cc-7f31-4aa8-a280-598903aef045",
+          "text": "update redime",
+          "done": false,
+          "running": false,
+          "createdAt": "2026-06-08T10:00:19.755Z"
+        },
+        {
+          "id": "06299a51-664a-45dc-a945-d72cd71a62c0",
+          "text": "Organize workspace",
+          "done": false,
+          "createdAt": "2026-06-08T08:06:50.656Z",
+          "running": false
+        }
+      ],
+      "hidden": true
+    }
+  ]
+}
